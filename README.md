@@ -5,7 +5,7 @@ Experience our products hands on through series of labs. Browse materials that p
 
 ## Labs
 
-[FRINX OpenDaylight & UniConfig - First Steps](Learning-Labs/01-labs-01-odl-uniconfig-first-steps/README.md)
+[FRINX OpenDaylight & UniConfig - First Steps](01-labs-01-odl-uniconfig-first-steps/README.md)
 
 
 
