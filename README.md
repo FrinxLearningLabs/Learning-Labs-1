@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/FRINXio/Learning-Labs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Labs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## FRINX OpenDaylight & UniConfig - First Steps
 
-### Markdown
+In this lab you will learn to install FRINX OpenDaylight (ODL) with UniConfig and run a number of API calls from a Postman collection to configure an IOS XE networking device.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Step 1: Mount a Cisco IOS XE device via CLI](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/1.md)  
 
-```markdown
-Syntax highlighted code block
+[Step 2: Check if the device is connected](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/2.md)  
 
-# Header 1
-## Header 2
-### Header 3
+[Step 3: UniConfig API call to show all interfaces](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/3.md)  
 
-- Bulleted
-- List
+[Step 4: UniConfig API call to create loopback interface](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/4.md)  
 
-1. Numbered
-2. List
+[Step 5: UniConfig API call to set IP address](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/5.md)
 
-**Bold** and _Italic_ and `Code` text
+[Step 6: Show all interfaces](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/6.md)
 
-[Link](url) and ![Image](src)
-```
+[Step 7: Execute & Read API call to show interface counters details](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/7.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Step 8: Unmount device](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/8.md)
 
-### Jekyll Themes
+[Appendix](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/9.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FRINXio/Learning-Labs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[BYOD - Installation and configuration guide](Learning-Labs/frinx-learning-labs/labs/01-labs-01-odl-uniconfig-first-steps/byod.html)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
