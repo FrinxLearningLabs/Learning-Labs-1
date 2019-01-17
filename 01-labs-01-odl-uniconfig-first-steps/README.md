@@ -3,7 +3,7 @@
 
 In this lab you will learn to install FRINX OpenDaylight (ODL) with UniConfig and run a number of API calls from a Postman collection to configure an IOS XE networking device.
 
-[Step 1: Mount a Cisco IOS XE device via CLI](01-labs-01-odl-uniconfig-first-steps/1.md)  
+[Step 1: Mount a Cisco IOS XE device via CLI](1.md)  
 
 [Step 2: Check if the device is connected](01-labs-01-odl-uniconfig-first-steps/2.md)  
 
