@@ -1,7 +1,7 @@
 
 # FRINX Learning Labs
 
-Experience our products hands on through series of labs. Browse materials that practically demonstrate FRINX's portfolio, created by our own engineers.
+Experience our products hands on through a series of labs. Browse materials that demonstrate FRINX's portfolio, created by our engineers.
 
 ## Labs
 
