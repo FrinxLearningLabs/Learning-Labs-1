@@ -20,7 +20,9 @@
    {"title": "Step 7: Execute & Read API call to show interface counters details",
      "file": "7.md"},
    {"title": "Step 8: Unmount device",
-     "file": "8.md"}
+     "file": "8.md"},
+   {"title": "Appendix",
+     "file": "9.md"}
  ],
  "tags": [
    {"title": "CLL: FRINX OpenDaylight & UniConfig - First Steps"}
@@ -30,7 +32,7 @@
    }
  ],
  "authors": [
-     {"name": "Viktor Balaz", "email": "vbalaz@frinx.io"}
+     {"name": "Gerhard Wieser", "email": "gwieser@frinx.io"}
  ],
  "active": false
 }
