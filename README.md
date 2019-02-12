@@ -5,7 +5,7 @@ Experience our products hands on through a series of labs. Browse materials that
 
 ## Labs
 
-[FRINX OpenDaylight & UniConfig - First Steps](01-labs-01-odl-uniconfig-first-steps/README.md)
+[FRINX OpenDaylight & UniConfig - First Steps](01-labs-01-odl-uniconfig-first-steps/README.md)  
 [Aggregate connections with LACP protocol]((02-labs-01-aggregate-connections-with-LACP/README.md)
 
 
