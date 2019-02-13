@@ -1,7 +1,7 @@
 
-## Aggregate multiple connections with LACP service
+## A sample application to create LACP link bundles
 
-In this lab, you will learn about LACP service. It is an example Python application that is using Frinx uniconfig framework to provision simple LACP service. Purpose of the application is to show potentional users of uniconfig how to use it in an efficient and simple manner.
+In this lab you will learn how to use and create a simple Python application that leverages the FRINX UniConfig framework to provision LACP link bundles between two network devices. The purpose of this application is to show developers how to use the UniConfig API in FRINX ODL to configure services in network devices.
 
 [Step 0: Get to know LACP](1.md)  
 
