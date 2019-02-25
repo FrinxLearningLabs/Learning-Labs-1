@@ -11,6 +11,4 @@ In this lab you will learn how to use and create a simple Python application tha
 
 [Basic installation and configuration guide](installation-instructions.html)  
 
-[Using your own device? Click here for guidance](byod.html)  
-
 
